@@ -6,6 +6,13 @@
   "players": "Players",
   "name": "Name",
   "rating": "Ranking",
+  "tournaments": "Tournaments",
+  "date":"Date",
+  "inputForSearch": "Search...",
+  "datesOfTheEvent": "Dates of the event",
+  "country": "Country",
+  "city": "City",
+  "club": "Club",
 
   "test": "Test EN",
   "test1": "Test EN 1",

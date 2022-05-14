@@ -5,6 +5,14 @@
   "main": "Haupt",
   "players": "Spieler",
   "name": "Name",
+  "tournaments": "Turniere",
+  "date":"Datum",
+  "inputForSearch": "Suche",
+  "datesOfTheEvent": "Надо перевести",
+  "country": "das Land",
+  "city": "надо перевести",
+  "club": "надо перевести",
+
 
   "test": "Test DE",
   "test1": "Test DE 1",

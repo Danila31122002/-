@@ -1,8 +1,6 @@
 import React, { useState } from 'react';
-
-type User = {
-    name: string;
-};
+import { User } from '../types';
+//задать вопрос
 
 type ContextProps = {
     user: User | null;

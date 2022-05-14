@@ -5,7 +5,6 @@ import { useLocalStorage } from '../utils';
 
 import { Menu } from './Menu';
 import { Router } from './Router';
-
 export const App: React.VFC = () => {
     const [, i18n] = useTranslation();
     const [lang] = useLocalStorage('lang', 'en');
