@@ -1,0 +1,15 @@
+.mainBarLine{
+    display: flex;
+    padding: 20px;
+}
+.mainBarLine_left {
+    flex: 1;
+    max-width: 400px;
+    background-color: yellow
+  }
+  
+.mainBarLine_right {
+    flex: 2;
+    margin-left: 20px;
+    background-color: green
+  }
